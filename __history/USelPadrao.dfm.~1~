@@ -1,0 +1,217 @@
+object frmSelPadrao: TfrmSelPadrao
+  Left = 0
+  Top = 0
+  Caption = ':: Padr'#227'o ::'
+  ClientHeight = 341
+  ClientWidth = 638
+  Color = cl3DLight
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object dsSiga: TDataSource
+    DataSet = qPadrao
+    Left = 80
+    Top = 216
+  end
+  object qPadrao: TQuery
+    Active = True
+    DatabaseName = '\\serversiga\SIGA\AP8_DATA\DADOSADV'
+    Filtered = True
+    SQL.Strings = (
+      'select * from sz6010'
+      '')
+    Left = 120
+    Top = 216
+    object qPadraoZ6_CODTEC: TStringField
+      FieldName = 'Z6_CODTEC'
+      Size = 6
+    end
+    object qPadraoZ6_DTATINI: TDateField
+      FieldName = 'Z6_DTATINI'
+    end
+    object qPadraoZ6_DTATFIM: TDateField
+      FieldName = 'Z6_DTATFIM'
+    end
+    object qPadraoZ6_HORAINI: TStringField
+      FieldName = 'Z6_HORAINI'
+      Size = 5
+    end
+    object qPadraoZ6_HORAFIM: TStringField
+      FieldName = 'Z6_HORAFIM'
+      Size = 5
+    end
+    object qPadraoZ6_STATUS: TStringField
+      FieldName = 'Z6_STATUS'
+      Size = 1
+    end
+    object qPadraoZ6_NUMOS: TStringField
+      FieldName = 'Z6_NUMOS'
+      Size = 6
+    end
+    object qPadraoZ6_NOMECLI: TStringField
+      FieldName = 'Z6_NOMECLI'
+      Size = 25
+    end
+    object qPadraoZ6_UF: TStringField
+      FieldName = 'Z6_UF'
+      Size = 2
+    end
+    object qPadraoZ6_CIDADE: TStringField
+      FieldName = 'Z6_CIDADE'
+      Size = 25
+    end
+    object qPadraoZ6_USINCLU: TStringField
+      FieldName = 'Z6_USINCLU'
+      Size = 15
+    end
+    object qPadraoZ6_FILIAL: TStringField
+      FieldName = 'Z6_FILIAL'
+      Size = 2
+    end
+    object qPadraoZ6_NUMATEN: TStringField
+      FieldName = 'Z6_NUMATEN'
+      Size = 6
+    end
+    object qPadraoZ6_DTINCLU: TDateField
+      FieldName = 'Z6_DTINCLU'
+    end
+    object qPadraoZ6_HRINCLU: TStringField
+      FieldName = 'Z6_HRINCLU'
+      Size = 5
+    end
+    object qPadraoZ6_TIPOAGE: TStringField
+      FieldName = 'Z6_TIPOAGE'
+      Size = 1
+    end
+    object qPadraoZ6_NOMETEC: TStringField
+      FieldName = 'Z6_NOMETEC'
+    end
+    object qPadraoZ6_NUMORC: TStringField
+      FieldName = 'Z6_NUMORC'
+      Size = 6
+    end
+    object qPadraoZ6_CODCLI: TStringField
+      FieldName = 'Z6_CODCLI'
+      Size = 6
+    end
+    object qPadraoZ6_LOJA: TStringField
+      FieldName = 'Z6_LOJA'
+      Size = 2
+    end
+    object qPadraoZ6_TOTHOR: TStringField
+      FieldName = 'Z6_TOTHOR'
+      Size = 10
+    end
+    object qPadraoZ6_OBSERV: TStringField
+      FieldName = 'Z6_OBSERV'
+      Size = 30
+    end
+    object qPadraoZ6_DTSTAG: TDateField
+      FieldName = 'Z6_DTSTAG'
+    end
+    object qPadraoZ6_HRSTAG: TStringField
+      FieldName = 'Z6_HRSTAG'
+      Size = 5
+    end
+    object qPadraoZ6_PADR1: TStringField
+      FieldName = 'Z6_PADR1'
+      Size = 16
+    end
+    object qPadraoZ6_DESCP01: TStringField
+      FieldName = 'Z6_DESCP01'
+      Size = 35
+    end
+    object qPadraoZ6_PADR2: TStringField
+      FieldName = 'Z6_PADR2'
+      Size = 16
+    end
+    object qPadraoZ6_DESCP02: TStringField
+      FieldName = 'Z6_DESCP02'
+      Size = 35
+    end
+    object qPadraoZ6_PADR3: TStringField
+      FieldName = 'Z6_PADR3'
+      Size = 16
+    end
+    object qPadraoZ6_DESCP03: TStringField
+      FieldName = 'Z6_DESCP03'
+      Size = 35
+    end
+    object qPadraoZ6_PADR4: TStringField
+      FieldName = 'Z6_PADR4'
+      Size = 16
+    end
+    object qPadraoZ6_DESCP04: TStringField
+      FieldName = 'Z6_DESCP04'
+      Size = 35
+    end
+    object qPadraoZ6_PADR5: TStringField
+      FieldName = 'Z6_PADR5'
+      Size = 16
+    end
+    object qPadraoZ6_DESCP05: TStringField
+      FieldName = 'Z6_DESCP05'
+      Size = 35
+    end
+    object qPadraoZ6_PADR6: TStringField
+      FieldName = 'Z6_PADR6'
+      Size = 16
+    end
+    object qPadraoZ6_DESCP06: TStringField
+      FieldName = 'Z6_DESCP06'
+      Size = 35
+    end
+    object qPadraoZ6_PADR7: TStringField
+      FieldName = 'Z6_PADR7'
+      Size = 16
+    end
+    object qPadraoZ6_DESCP07: TStringField
+      FieldName = 'Z6_DESCP07'
+      Size = 35
+    end
+    object qPadraoZ6_PADR8: TStringField
+      FieldName = 'Z6_PADR8'
+      Size = 16
+    end
+    object qPadraoZ6_DESCP08: TStringField
+      FieldName = 'Z6_DESCP08'
+      Size = 35
+    end
+    object qPadraoZ6_PADR9: TStringField
+      FieldName = 'Z6_PADR9'
+      Size = 16
+    end
+    object qPadraoZ6_DESCP09: TStringField
+      FieldName = 'Z6_DESCP09'
+      Size = 35
+    end
+    object qPadraoZ6_PADR10: TStringField
+      FieldName = 'Z6_PADR10'
+      Size = 16
+    end
+    object qPadraoZ6_DESCP10: TStringField
+      FieldName = 'Z6_DESCP10'
+      Size = 35
+    end
+    object qPadraoZ6_MOTCANC: TStringField
+      FieldName = 'Z6_MOTCANC'
+      Size = 100
+    end
+    object qPadraoZ6_DTCANC: TDateField
+      FieldName = 'Z6_DTCANC'
+    end
+    object qPadraoZ6_HRCANC: TStringField
+      FieldName = 'Z6_HRCANC'
+      Size = 5
+    end
+    object qPadraoZ6_USUCANC: TStringField
+      FieldName = 'Z6_USUCANC'
+      Size = 15
+    end
+  end
+end

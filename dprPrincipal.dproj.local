@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008/03/04 15:12:05.062.pas,C:\meus documentos\Borland Studio Projects\Unit1.pas=C:\Projetos\Delphi\Calibracao\Uprincipal.pas</Transaction>
+    <Transaction>2008/03/04 15:12:05.062.dfm,C:\meus documentos\Borland Studio Projects\Unit1.dfm=C:\Projetos\Delphi\Calibracao\Uprincipal.dfm</Transaction>
+    <Transaction>2008/03/04 15:12:13.828.bdsproj,C:\meus documentos\Borland Studio Projects\Project1.bdsproj=C:\Projetos\Delphi\Calibracao\dprPrincipal.bdsproj</Transaction>
+    <Transaction>2008/03/06 09:31:01.812.pas,C:\Projetos\Delphi\Calibracao\Unit1.pas=C:\Projetos\Delphi\Calibracao\Ucalendario.pas</Transaction>
+    <Transaction>2008/03/12 15:18:33.812.pas,C:\Projetos\Delphi\Calibracao\Unit1.pas=C:\Projetos\Delphi\Calibracao\UAgendaTecnicos.pas</Transaction>
+    <Transaction>2008/03/12 15:18:33.812.dfm,C:\Projetos\Delphi\Calibracao\Unit1.dfm=C:\Projetos\Delphi\Calibracao\UAgendaTecnicos.dfm</Transaction>
+    <Transaction>2008/03/12 15:22:53.468.pas,C:\Projetos\Delphi\Calibracao\Unit1.pas=C:\Projetos\Delphi\Calibracao\UAgendaGeral.pas</Transaction>
+    <Transaction>2008/03/12 15:22:53.468.dfm,C:\Projetos\Delphi\Calibracao\Unit1.dfm=C:\Projetos\Delphi\Calibracao\UAgendaGeral.dfm</Transaction>
+    <Transaction>2008/06/10 10:25:05.796.pas,D:\Projetos\Delphi\Calibracao\Unit1.pas=D:\Projetos\Delphi\Calibracao\UPadrao.pas</Transaction>
+    <Transaction>2008/06/10 10:25:05.796.dfm,D:\Projetos\Delphi\Calibracao\Unit1.dfm=D:\Projetos\Delphi\Calibracao\UPadrao.dfm</Transaction>
+    <Transaction>2008/07/21 13:55:55.281.pas,D:\Projetos\Delphi\Calibracao\Unit1.pas=D:\Projetos\Delphi\Calibracao\UAgenda.pas</Transaction>
+    <Transaction>2008/07/21 13:55:55.281.dfm,D:\Projetos\Delphi\Calibracao\Unit1.dfm=D:\Projetos\Delphi\Calibracao\UAgenda.dfm</Transaction>
+    <Transaction>2008/08/18 10:56:43.109.pas,D:\Projetos\Delphi\Calibracao\Unit1.pas=D:\Projetos\Delphi\Calibracao\USelPadrao.pas</Transaction>
+    <Transaction>2008/08/18 10:56:43.109.dfm,D:\Projetos\Delphi\Calibracao\Unit1.dfm=D:\Projetos\Delphi\Calibracao\USelPadrao.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

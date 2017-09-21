@@ -1,0 +1,21 @@
+program dprPrincipal;
+
+uses
+  Forms,
+  Uprincipal in 'Uprincipal.pas' {frmPrincipal},
+  Ucalendario in 'Ucalendario.pas',
+  UAgendaTecnicos in 'UAgendaTecnicos.pas' {frmAgendaTecnicos},
+  UAgendaGeral in 'UAgendaGeral.pas' {frmAgendaGeral},
+  UTecnicos in 'UTecnicos.pas' {frmTecnico},
+  UPadrao in 'UPadrao.pas' {frmPadrao},
+  UAgenda in 'UAgenda.pas' {frmAgenda},
+  USelPadrao in 'USelPadrao.pas' {frmSelPadrao};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.Title := 'Agenda';
+  Application.CreateForm(TfrmPrincipal, frmPrincipal);
+  Application.Run;
+end.

@@ -1,0 +1,760 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 0
+  Top = 0
+  Caption = ':: Agenda ::'
+  ClientHeight = 654
+  ClientWidth = 964
+  Color = cl3DLight
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsMDIForm
+  Menu = MainMenu1
+  OldCreateOrder = False
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object JvTFMonths1: TJvTFMonths
+    Left = 8
+    Top = 0
+    Width = 948
+    Height = 626
+    ScheduleManager = utfScheduleManager1
+    Cells = <
+      item
+        Color = clBlack
+        CellDate = 39628.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39629.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39630.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39631.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39632.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39633.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39634.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39635.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39636.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39637.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39638.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39639.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39640.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39641.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39642.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39643.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39644.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39645.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39646.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39647.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39648.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39649.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39650.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39651.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39652.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39653.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39654.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39655.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39656.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39657.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39658.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39659.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39660.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39661.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39662.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39663.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39664.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39665.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39666.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39667.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39668.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end
+      item
+        Color = clBlack
+        CellDate = 39669.000000000000000000
+        CellPics = <>
+        CanSelect = True
+      end>
+    GapSize = 0
+    TitleAttr.TxtAttr.Font.Charset = DEFAULT_CHARSET
+    TitleAttr.TxtAttr.Font.Color = clWindowText
+    TitleAttr.TxtAttr.Font.Height = -21
+    TitleAttr.TxtAttr.Font.Name = 'Tahoma'
+    TitleAttr.TxtAttr.Font.Style = [fsBold]
+    TitleAttr.Title = 'julho 2008'
+    CellAttr.Color = cl3DLight
+    CellAttr.Font.Charset = ANSI_CHARSET
+    CellAttr.Font.Color = clWindowText
+    CellAttr.Font.Height = -11
+    CellAttr.Font.Name = 'Arial'
+    CellAttr.Font.Style = [fsBold]
+    CellAttr.TitleAttr.Color = clWhite
+    CellAttr.TitleAttr.DayTxtAttr.Font.Charset = ANSI_CHARSET
+    CellAttr.TitleAttr.DayTxtAttr.Font.Color = clBlack
+    CellAttr.TitleAttr.DayTxtAttr.Font.Height = -15
+    CellAttr.TitleAttr.DayTxtAttr.Font.Name = 'Arial'
+    CellAttr.TitleAttr.DayTxtAttr.Font.Style = [fsBold]
+    CellAttr.TitleAttr.DayTxtAttr.AlignH = taCenter
+    CellAttr.TitleAttr.PicAttr.AlignH = taCenter
+    CellAttr.DrawBottomLine = False
+    SelCellAttr.Font.Charset = DEFAULT_CHARSET
+    SelCellAttr.Font.Color = clGreen
+    SelCellAttr.Font.Height = -11
+    SelCellAttr.Font.Name = 'Tahoma'
+    SelCellAttr.Font.Style = []
+    SelCellAttr.TitleAttr.Color = clNavy
+    SelCellAttr.TitleAttr.DayTxtAttr.Font.Charset = DEFAULT_CHARSET
+    SelCellAttr.TitleAttr.DayTxtAttr.Font.Color = clWhite
+    SelCellAttr.TitleAttr.DayTxtAttr.Font.Height = -11
+    SelCellAttr.TitleAttr.DayTxtAttr.Font.Name = 'Tahoma'
+    SelCellAttr.TitleAttr.DayTxtAttr.Font.Style = []
+    SelCellAttr.DrawBottomLine = False
+    Viewer = JvTFGlanceTextViewer2
+    DateFormat = 'ddddd'
+    TimeFormat = 't'
+    ParentColor = True
+    TabOrder = 0
+    Month = 7
+    Year = 2008
+    DisplayDate = 39643.000000000000000000
+    DWNames.Source = dwnsSysLong
+    DWNames.DWN_Sunday = 'S'
+    DWNames.DWN_Monday = 'M'
+    DWNames.DWN_Tuesday = 'T'
+    DWNames.DWN_Wednesday = 'W'
+    DWNames.DWN_Thursday = 'T'
+    DWNames.DWN_Friday = 'F'
+    DWNames.DWN_Saturday = 'S'
+    DWTitleAttr.Color = clActiveCaption
+    DWTitleAttr.FrameAttr.Style = fs3DRaised
+    DWTitleAttr.Height = 30
+    DWTitleAttr.TxtAttr.Font.Charset = DEFAULT_CHARSET
+    DWTitleAttr.TxtAttr.Font.Color = clWindowText
+    DWTitleAttr.TxtAttr.Font.Height = -16
+    DWTitleAttr.TxtAttr.Font.Name = 'Tahoma'
+    DWTitleAttr.TxtAttr.Font.Style = [fsBold]
+    DWTitleAttr.TxtAttr.AlignH = taCenter
+    ExtraDayCellAttr.Color = clGradientInactiveCaption
+    ExtraDayCellAttr.Font.Charset = ANSI_CHARSET
+    ExtraDayCellAttr.Font.Color = clWindowText
+    ExtraDayCellAttr.Font.Height = -11
+    ExtraDayCellAttr.Font.Name = 'Arial'
+    ExtraDayCellAttr.Font.Style = [fsBold]
+    ExtraDayCellAttr.TitleAttr.Color = clWhite
+    ExtraDayCellAttr.TitleAttr.DayTxtAttr.Font.Charset = ANSI_CHARSET
+    ExtraDayCellAttr.TitleAttr.DayTxtAttr.Font.Color = clWindowText
+    ExtraDayCellAttr.TitleAttr.DayTxtAttr.Font.Height = -15
+    ExtraDayCellAttr.TitleAttr.DayTxtAttr.Font.Name = 'Arial'
+    ExtraDayCellAttr.TitleAttr.DayTxtAttr.Font.Style = [fsBold]
+    ExtraDayCellAttr.TitleAttr.DayTxtAttr.AlignH = taCenter
+    ExtraDayCellAttr.DrawBottomLine = False
+    OffDayCellAttr.Color = cl3DLight
+    OffDayCellAttr.Font.Charset = ANSI_CHARSET
+    OffDayCellAttr.Font.Color = clBlack
+    OffDayCellAttr.Font.Height = -11
+    OffDayCellAttr.Font.Name = 'Arial'
+    OffDayCellAttr.Font.Style = [fsBold]
+    OffDayCellAttr.TitleAttr.Color = clWhite
+    OffDayCellAttr.TitleAttr.DayTxtAttr.Font.Charset = ANSI_CHARSET
+    OffDayCellAttr.TitleAttr.DayTxtAttr.Font.Color = clWindowText
+    OffDayCellAttr.TitleAttr.DayTxtAttr.Font.Height = -15
+    OffDayCellAttr.TitleAttr.DayTxtAttr.Font.Name = 'Arial'
+    OffDayCellAttr.TitleAttr.DayTxtAttr.Font.Style = [fsBold]
+    OffDayCellAttr.TitleAttr.DayTxtAttr.AlignH = taCenter
+    OffDayCellAttr.DrawBottomLine = False
+  end
+  object btMenor: TBitBtn
+    Left = 316
+    Top = 6
+    Width = 43
+    Height = 33
+    TabOrder = 1
+    OnClick = btMenorClick
+    Glyph.Data = {
+      F6060000424DF606000000000000360000002800000018000000180000000100
+      180000000000C0060000120B0000120B00000000000000000000FF00FFFF00FF
+      FF00FFFF00FFFF00FFFF00FFFF00FFFF00FF0136020136020136020136020136
+      02013602013602013602FF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF
+      00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF034A0401360203860903990B
+      039F0C03A10C03A10C039F0C03980B038109013602013602FF00FFFF00FFFF00
+      FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF034A04034A04038F0A03
+      A40C03A40C039F0C039F0C039F0C039F0C039F0C039F0C03A40C03A40C03880A
+      013602013602FF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF06690C0469
+      0C06A51304A30F039E0C039E0C039E0C039E0C039E0C039E0C039E0C039E0C03
+      9E0C039E0C03A40C039D0C025B05013602FF00FFFF00FFFF00FFFF00FFFF00FF
+      06690C0569100AAB1F08A51906A014049F0F049F0F049F0F039E0C039E0C039E
+      0C039E0C039E0C039E0C039E0C039E0C039F0C039F0C025705013602FF00FFFF
+      00FFFF00FFFF00FF06690C0EAB2A0CA7250AA41F049F0F049F0F049F0F049F0F
+      93DD9EFFFFFFEBF8EE27B233059F0F039E0C039E0C039E0C039E0C03A10C0399
+      0B013602FF00FFFF00FFFF00FF06690C0F952B11B0340EA92B0EA92B049F0F04
+      9F0F049F0F98DEA4FFFFFFFFFFFFFFFFFF70D07B06A113039E0C039E0C039E0C
+      039E0C039E0C03A50C037A08013602FF00FFFF00FF06690C16B44113AC3711AA
+      3216AB37049F0F049F0F9CE0AAFFFFFFFFFFFFFCFEFCC7EECE25B23609A31703
+      9E0C039E0C039E0C039E0C039E0C039F0C039E0C013602FF00FF039E0C118F31
+      1AB64A16AF3E16AF3E16AF3E049F0FA0E1B1FFFFFFFFFFFFE7F7EAAFE6B829B5
+      3D0EA61F0BA51C039E0C039E0C039E0C039E0C039E0C039E0C03A50C026B0701
+      3602039E0C19A9471CB44E19B14719B14719B1476ED08AFFFFFFFFFFFFFFFFFF
+      78D48B32B84A14AB2B11A9250EA6200CA51C09A31807A11406A111039E0C039E
+      0C03A10C03880A013602039E0C20B25122B6551CB24E1CB24E74D392FFFFFFFF
+      FFFFFFFFFFFFFFFFDAF3E1BBEAC5BBEAC5BAE9C2B7E9C0B7E9BFB6E7BCB5E7BB
+      B4E7BA8FDA96039E0C039E0C03990B013602039E0C2EBA5E31BC631FB4521FB4
+      52FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFF039E0C039E0C039F0C013602039E0C3EC06C
+      47C57524B65624B656D4F2E0FFFFFFFFFFFFFFFFFFFFFFFFDCF4E3F2FBF4FFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEBF8EE039E0C039E0C039E0C01
+      3602039E0C47C27267D08E34BC6434BC6441C26FC6EED5FFFFFFFFFFFFFFFFFF
+      92DDA949C46946C2644DC56949C46346C15D42C05941BD543DBD4F22B033039E
+      0C039F0C03930B013602039E0C40BB6683D9A452C97D38BF6838BF6837BF67AB
+      E6C0FFFFFFFFFFFFFFFFFFADE6BF2DB85223B44520B13F1DB03919AD3416AC2D
+      13AA280FA723039E0D03A30C037F09013602039E0C2BAA4888DCA986DAA535BD
+      6538BF6838BF6838BF68ABE6C0FFFFFFFFFFFFFFFFFFD8F3E03EC05F23B44611
+      AA300EA92B0CA7250AA52008A31905A01104A50E026006013602FF00FF039E0C
+      6BD091ADE6C46ED3932BBA5C38BF6838BF6838BF68ABE6C1FFFFFFFFFFFFFFFF
+      FF89DAA128B64C13AC3711AA320FA92C0CA7250AA41D07A518059911013602FF
+      00FFFF00FF039E0C37B5579DE2B8B5E9C967CF8C38BF6838BF6838BF6838BF68
+      79D59AFFFFFFFFFFFF5ACB7E2CB75216AD3F13AD3911AB310EA7280CA6230AAC
+      1F046B0C013602FF00FFFF00FFFF00FF039E0C5AC980B7EACABBEBCE73D49638
+      BF6838BF6838BF6838BF6837BD6635BC6232BC5D2FBA5918B04415AD3D12AB35
+      10A92E0FAF2C098E1C034A04FF00FFFF00FFFF00FFFF00FF039E0C189F2A67CF
+      8CBAEACCCAEFD897E0B25DCC863ABF6929B85A22B5541FB4521FB45221B55324
+      B65222B54C19B04114B23A0E9D2906680D034A04FF00FFFF00FFFF00FFFF00FF
+      FF00FF039E0C189F2959C97EA3E3BCCAEFD8C1EDD1A0E2B87FD8A068D08E5CCB
+      8458CA8158CA814FC77A38C06722BA5010982F06680D06690CFF00FFFF00FFFF
+      00FFFF00FFFF00FFFF00FFFF00FF039E0C039E0C35B5536CD1919AE1B6B1E9C6
+      B5E9C9ABE6C19DE2B788DAA76CD3934AC9792AB4570F842706680D06680DFF00
+      FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF039E0C03
+      9E0C28AC4141BB6351C57755C77D4EC5773EBB6528A749138B2906680D06690C
+      FF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00
+      FFFF00FFFF00FFFF00FF039E0C039E0C039E0C039E0C039E0C039E0C039E0C03
+      9E0CFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF}
+  end
+  object btMaior: TBitBtn
+    Left = 624
+    Top = 6
+    Width = 43
+    Height = 33
+    TabOrder = 2
+    OnClick = btMaiorClick
+    Glyph.Data = {
+      F6060000424DF606000000000000360000002800000018000000180000000100
+      180000000000C0060000120B0000120B00000000000000000000FF00FFFF00FF
+      FF00FFFF00FFFF00FFFF00FFFF00FFFF00FF0450070450070450070450070450
+      07045007045007045007FF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF
+      00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF08650C045007089D1509AE18
+      09B31909B51909B51909B31909AD18089914045007045007FF00FFFF00FFFF00
+      FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF08650C08650C09A51709
+      B71A09B71A09B31909B31909B31909B31909B31909B31909B71A09B71A089F16
+      045007045007FF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF0F83190B83
+      190FB8250CB61E09B21909B21909B21909B21909B21909B21909B21909B21909
+      B21909B21909B71A09B11906760E045007FF00FFFF00FFFF00FFFF00FFFF00FF
+      0F83190E832017BD3513B82D0FB4260CB31F0CB31F0CB31F09B21909B21909B2
+      1909B21909B21909B21909B21909B21909B31909B31906720D045007FF00FFFF
+      00FFFF00FFFF00FF0F83191DBD421ABA3C16B7340CB31F0CB31F0CB31F0CB31F
+      1BB93343C555F0FAF2FFFFFFA4E2AB09B21909B21909B21909B21909B51909AE
+      18045007FF00FFFF00FFFF00FF0F83191EAA4322C14D1DBB431DBB431BBA3D1D
+      BB4015B73124BC4020BA3A8EDC9AFFFFFFFFFFFFFFFFFFA2E2A809B21909B219
+      09B21909B21909B81A089313045007FF00FFFF00FF0F831929C45B25BE5121BC
+      4B29BE5328C05729C0582CBF5129BD4825BC4144C55AD4F2D9FDFEFDFFFFFFFF
+      FFFFA2E2A809B21909B21909B21909B31909B219045007FF00FF09B21921A54A
+      2EC66529C05829C05829C05824BE4F30C15A32C1552EC04F2ABE4825BD4241C5
+      57BDEBC4EBF9EDFFFFFFFFFFFFA2E2A809B21909B21909B21909B81A07851104
+      500709B2192DBB6231C4692DC2622DC2622DC26240C6693CC46237C35C33C156
+      2FC04F2ABE4926BD4343C55A87DA95FFFFFFFFFFFFFFFFFF69D17509B21909B2
+      1909B51A089F1604500709B21936C36C38C67030C36930C369BAEBCAD0F1DBCF
+      F1D9CEF0D8CDF0D6CCEFD5CBEFD3CAEFD2C8EECFE1F6E4FFFFFFFFFFFFFFFFFF
+      FFFFFF69D07509B21909B21909AE1804500709B21947C9794ACB7D35C46D35C4
+      6DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFFFFFFFFFFFFFFFFFFFFFFFFFFF09B21909B21909B31904500709B21958CE86
+      62D28E3BC6713BC671F4FCF7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+      FFF4FCF6E2F6E6FFFFFFFFFFFFFFFFFFFFFFFFD3F1D709B21909B21909B21904
+      500709B21962D08B81DBA44DCB7E4DCB7E67D3917BD99E79D79B77D79874D695
+      71D5906ED48C61D07E5DCF7AA0E3B0FFFFFFFFFFFFFFFFFFC7EECD29BC3F09B2
+      1A09B31909A91804500709B2195ACA809BE2B76DD59552CD8252CD8251CD8150
+      CD7E4DCB7A49CA7646C97142C76B46C86DBCEBC9FFFFFFFFFFFFFFFFFFAEE7B9
+      24BC401FBA390AB21C09B61908971404500709B21943BC639FE4BB9DE3B84FCC
+      7F52CD8252CD8252CD8250CC7E4DCB7B4ACA775FD085E1F6E7FFFFFFFFFFFFFF
+      FFFFAAE5B81ABA3C17B83613B62D0DB4220BB81D067B0F045007FF00FF09B219
+      85DBA7BFECD188DDA943C97752CD8252CD8252CD8250CC7F4DCB7BA3E4BAFFFF
+      FFFFFFFFFFFFFFADE7BD21BC4B1EBB441ABA3C16B73212B82B0EAE22045007FF
+      00FFFF00FF09B21951C572B1E9C8C5EED581DAA352CD8252CD8252CD8252CD82
+      50CC7F7AD89CFFFFFFFFFFFF8ADCA428BF5925BF5321BD4A1DBA4019B93916BE
+      350C851A045007FF00FFFF00FFFF00FF09B21975D598C7EFD6CAF0D98CDEAB52
+      CD8252CD8252CD8252CD8251CC804ECB7C4BCB7848C9742BC15F27BF5723BD4E
+      20BB471EC04415A43008650CFF00FFFF00FFFF00FFFF00FF09B2192CB34281DA
+      A3C9EFD8D6F3E1ACE7C378D89D54CD8341C87538C56F35C46D35C46D37C56E3B
+      C66D38C5672DC15B26C3541DB1410F821C08650CFF00FFFF00FFFF00FFFF00FF
+      FF00FF09B2192BB34174D596B6EACBD6F3E1CFF1DCB4E9C897E1B482DBA477D7
+      9C73D69973D6996AD49352CE8138C96B20AD480F821C0F8319FF00FFFF00FFFF
+      00FFFF00FFFF00FFFF00FFFF00FF09B21909B2194FC56E86DCA7AFE8C6C2EED3
+      C5EED5BDECCFB1E9C79FE3BA86DDA965D59242C4721F9C3E0F821C0F821CFF00
+      FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF09B21909
+      B2193FBE5C5BCA7D6CD29070D49569D29058CA7F3FBA6424A2410F821C0F8319
+      FF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00
+      FFFF00FFFF00FFFF00FF09B21909B21909B21909B21909B21909B21909B21909
+      B219FF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FFFF00FF}
+  end
+  object MainMenu1: TMainMenu
+    Left = 16
+    Top = 16
+    object Agenda1: TMenuItem
+      Caption = 'Agenda Geral'
+      OnClick = Agenda1Click
+    end
+    object AgendaTecnicos: TMenuItem
+      Caption = 'Agenda dos T'#233'cnicos'
+      OnClick = AgendaTecnicosClick
+    end
+    object AgendadePadres1: TMenuItem
+      Caption = 'Agenda de Padr'#245'es'
+      OnClick = AgendadePadres1Click
+    end
+  end
+  object JvTFGlanceTextViewer2: TJvTFGlanceTextViewer
+    ShowSchedNamesInHint = False
+    LineSpacing = 2
+    SelApptAttr.Color = clRed
+    ShowStartEnd = False
+    OnDblClick = JvTFGlanceTextViewer2DblClick
+    Left = 736
+    Top = 8
+  end
+  object utfScheduleManager1: TJvTFScheduleManager
+    StateImageMap.AlarmEnabled = -1
+    StateImageMap.AlarmDisabled = -1
+    StateImageMap.Shared = -1
+    StateImageMap.Recurring = -1
+    StateImageMap.Modified = -1
+    Cache.CacheType = ctNone
+    Cache.TimedDelay = 300
+    Left = 688
+    Top = 8
+  end
+  object Timer1: TTimer
+    Interval = 100000
+    OnTimer = Timer1Timer
+    Left = 184
+    Top = 24
+  end
+  object SQLConnection1: TSQLConnection
+    ConnectionName = 'MSSQLConnection'
+    DriverName = 'MSSQL'
+    GetDriverFunc = 'getSQLDriverMSSQL'
+    LibraryName = 'dbxmss30.dll'
+    LoginPrompt = False
+    Params.Strings = (
+      'DriverName=MSSQL'
+      'HostName=polimatesp.no-ip.info'
+      'DataBase=DADOSADV'
+      'User_Name=SIGA'
+      'Password=POLISQL'
+      'BlobSize=-1'
+      'ErrorResourceFile='
+      'LocaleCode=0000'
+      'MSSQL TransIsolation=ReadCommited'
+      'OS Authentication=False'
+      'Prepare SQL=False')
+    VendorLib = 'oledb'
+    Connected = True
+    Left = 528
+    Top = 160
+  end
+  object qExpectativa: TSQLQuery
+    MaxBlobSize = -1
+    ParamCheck = False
+    Params = <>
+    SQL.Strings = (
+      
+        'select Z6_STATUS,Z6_CODTEC,Z6_NOMETEC,Z6_DTATINI,Z6_DTATFIM,Z6_H' +
+        'ORAINI,Z6_HORAFIM,Z6_NOMECLI,Z6_CIDADE,Z6_UF,Z6_NUMOS,Z6_DTINCLU' +
+        ',Z6_HRINCLU from sz6010 where (Z6_STATUS = 1 AND Z6_STATUS = 3)')
+    SQLConnection = SQLConnection1
+    Left = 648
+    Top = 264
+    object qExpectativaZ6_STATUS: TStringField
+      FieldName = 'Z6_STATUS'
+      Required = True
+      FixedChar = True
+      Size = 1
+    end
+    object qExpectativaZ6_CODTEC: TStringField
+      FieldName = 'Z6_CODTEC'
+      Required = True
+      FixedChar = True
+      Size = 6
+    end
+    object qExpectativaZ6_NOMETEC: TStringField
+      FieldName = 'Z6_NOMETEC'
+      Required = True
+      FixedChar = True
+    end
+    object qExpectativaZ6_DTATINI: TStringField
+      FieldName = 'Z6_DTATINI'
+      Required = True
+      FixedChar = True
+      Size = 8
+    end
+    object qExpectativaZ6_DTATFIM: TStringField
+      FieldName = 'Z6_DTATFIM'
+      Required = True
+      FixedChar = True
+      Size = 8
+    end
+    object qExpectativaZ6_HORAINI: TStringField
+      FieldName = 'Z6_HORAINI'
+      Required = True
+      FixedChar = True
+      Size = 5
+    end
+    object qExpectativaZ6_HORAFIM: TStringField
+      FieldName = 'Z6_HORAFIM'
+      Required = True
+      FixedChar = True
+      Size = 5
+    end
+    object qExpectativaZ6_NOMECLI: TStringField
+      FieldName = 'Z6_NOMECLI'
+      Required = True
+      FixedChar = True
+      Size = 25
+    end
+    object qExpectativaZ6_CIDADE: TStringField
+      FieldName = 'Z6_CIDADE'
+      Required = True
+      FixedChar = True
+      Size = 25
+    end
+    object qExpectativaZ6_UF: TStringField
+      FieldName = 'Z6_UF'
+      Required = True
+      FixedChar = True
+      Size = 2
+    end
+    object qExpectativaZ6_NUMOS: TStringField
+      FieldName = 'Z6_NUMOS'
+      Required = True
+      FixedChar = True
+      Size = 6
+    end
+    object qExpectativaZ6_DTINCLU: TStringField
+      FieldName = 'Z6_DTINCLU'
+      Required = True
+      FixedChar = True
+      Size = 8
+    end
+    object qExpectativaZ6_HRINCLU: TStringField
+      FieldName = 'Z6_HRINCLU'
+      Required = True
+      FixedChar = True
+      Size = 5
+    end
+  end
+  object qTecnicos: TSQLQuery
+    Active = True
+    MaxBlobSize = -1
+    ParamCheck = False
+    Params = <>
+    SQL.Strings = (
+      'select AA1_CODTEC,AA1_TECAGE from aa1010;')
+    SQLConnection = SQLConnection1
+    Left = 616
+    Top = 264
+    object qTecnicosaa1_codtec: TStringField
+      FieldName = 'aa1_codtec'
+      Required = True
+      FixedChar = True
+      Size = 6
+    end
+    object qTecnicosaa1_tecage: TStringField
+      FieldName = 'aa1_tecage'
+      Required = True
+      FixedChar = True
+      Size = 1
+    end
+  end
+  object NeedApptsQuery: TSQLQuery
+    MaxBlobSize = -1
+    ParamCheck = False
+    Params = <>
+    SQL.Strings = (
+      
+        'select ABB_CODTEC,ABB_NUMOS,ABB_DTINI,ABB_HRINI,ABB_DTFIM,ABB_HR' +
+        'FIM,ABB_ATENDE,ABB_USUATE,ABB_CIDADE,ABB_UF,ABB_NOMCLI,D_E_L_E_T' +
+        '_ from abb010 where (abb010.ABB_DTINI > 2008/1/1 and D_E_L_E_T_ ' +
+        '<> '#39'*'#39') order by ABB_CODTEC,ABB_DTINI;')
+    SQLConnection = SQLConnection1
+    Left = 584
+    Top = 264
+    object NeedApptsQueryABB_CODTEC: TStringField
+      FieldName = 'ABB_CODTEC'
+      Required = True
+      FixedChar = True
+      Size = 6
+    end
+    object NeedApptsQueryABB_NUMOS: TStringField
+      FieldName = 'ABB_NUMOS'
+      Required = True
+      FixedChar = True
+      Size = 6
+    end
+    object NeedApptsQueryABB_DTINI: TStringField
+      FieldName = 'ABB_DTINI'
+      Required = True
+      FixedChar = True
+      Size = 8
+    end
+    object NeedApptsQueryABB_HRINI: TStringField
+      FieldName = 'ABB_HRINI'
+      Required = True
+      FixedChar = True
+      Size = 5
+    end
+    object NeedApptsQueryABB_DTFIM: TStringField
+      FieldName = 'ABB_DTFIM'
+      Required = True
+      FixedChar = True
+      Size = 8
+    end
+    object NeedApptsQueryABB_HRFIM: TStringField
+      FieldName = 'ABB_HRFIM'
+      Required = True
+      FixedChar = True
+      Size = 5
+    end
+    object NeedApptsQueryABB_ATENDE: TStringField
+      FieldName = 'ABB_ATENDE'
+      Required = True
+      FixedChar = True
+      Size = 1
+    end
+    object NeedApptsQueryABB_USUATE: TStringField
+      FieldName = 'ABB_USUATE'
+      Required = True
+      FixedChar = True
+      Size = 15
+    end
+    object NeedApptsQueryABB_CIDADE: TStringField
+      FieldName = 'ABB_CIDADE'
+      Required = True
+      FixedChar = True
+      Size = 25
+    end
+    object NeedApptsQueryABB_UF: TStringField
+      FieldName = 'ABB_UF'
+      Required = True
+      FixedChar = True
+      Size = 2
+    end
+    object NeedApptsQueryABB_NOMCLI: TStringField
+      FieldName = 'ABB_NOMCLI'
+      Required = True
+      FixedChar = True
+      Size = 25
+    end
+    object NeedApptsQueryD_E_L_E_T_: TStringField
+      FieldName = 'D_E_L_E_T_'
+      Required = True
+      FixedChar = True
+      Size = 1
+    end
+  end
+end
